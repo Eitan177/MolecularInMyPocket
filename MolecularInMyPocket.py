@@ -12,7 +12,7 @@ img2=Image.open("ampsd2.png")
 st.title('MOLECULAR IN MY POCKET SOLID TUMORS')
 
 st.title('Prepared by the Association for Molecular Pathology  Training and Education Committee')
-st.write(“'Molecular in My Pocket' reference cards are educational resources created by the Association of Molecular Pathology (AMP) for laboratory and other health care professionals. The content does not constitute medical or legal advice, and is not intended for use in the diagnosis or treatment of individual conditions. See www.amp.org for the full 'Limitations of Liability' statement.")
+st.write(“\'Molecular in My Pocket\' reference cards are educational resources created by the Association of Molecular Pathology (AMP) for laboratory and other health care professionals. The content does not constitute medical or legal advice, and is not intended for use in the diagnosis or treatment of individual conditions. See www.amp.org for the full \'Limitations of Liability\' statement.")
 dd = pd.read_csv('EditedSolidTumors.csv')
 
 solid, tab1, tab2, tab3,tab4, tab5, tab6  = st.tabs(["solid","MPN", "Colorectal", "Melanoma","CNS","Lung",'Thyroid'])
