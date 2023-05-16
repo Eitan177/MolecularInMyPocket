@@ -1,0 +1,31 @@
+﻿Biomarker,,Specific Alterations,,Indications,"Result Interpretation
+Significance",,Assays Techniques*,,,
+Must Test (Broad Molecular Profiling Recommended) **,,,,,,,,,,
+EGFR,,"Exons 18-21
+(p.L858R; exon 19 deletions)",,Consideration of therapy with EGFR-targeted tyrosine kinase inhibitors (TKI),Responsiveness to EGFR- targeted TKIs,,"NGS, PCR-based assays",,,
+,,Exon 20 insertions,,Consideration of therapy with EGFR-targeted TKIs,"Primary resistance to traditional EGFR-targeted TKI therapy; responsiveness to EGFR-targeted TKIs specific
+for exon 20 insertion",,,,,
+,,T790M,,Progression after treatment with early generation EGFR- targeted TKIs,Consideration of third- generation EGFR-targeted therapy (osimertinib),,,,,
+ALK,,ALK rearrangements,,Consideration of therapy with targeted inhibitors,"Predicts response to alectinib, brigatinib, lorlatinib
+(also ceritinib, crizotinib)",,"FISH, IHC, NGS, RT-
+PCR††",,,
+ROS1,,ROS1 rearrangements,,Consideration of therapy with targeted inhibitors,"Predicts response to ceritinib, crizotinib",,"FISH†, RT-PCR††,
+NGS†††; IHC as a screening with FISH or molecular confirmation
+of positive IHC results",,,
+BRAF,,p.V600E,,Consideration of therapy with targeted inhibitors,Predicts response to BRAF/MEK inhibitors (dabrafenib-trametinib),,"NGS, Sanger sequencing, PCR-based assays, IHC after
+extensive validation",,,
+KRAS***,,"Codon 12, 13, 61, and
+146",,Consideration of therapy with targeted inhibitors,"Predicts response to sotorasib (KRAS G12C); diminished likelihood of another targetable
+oncogenic alteration",,"NGS, PCR-based assays",,,
+MET,,Exon 14 skipping alterations,,Consideration of therapy with targeted inhibitors,"Predicts response to capmatinib, crizotinib",,NGS†††,,,
+RET,,RET rearrangements,,Consideration of therapy with targeted inhibitors,"Predicts response to selpercatinib, pralsetinib (also cabozantinib, vandetanib)",,"FISH†, RT-PCR††,
+NGS†††",,,
+,"ERBB2 (HER2)
+mutations (in frame insertions in exon 20, substitutions at codon
+S310)",,Consideration of therapy with targeted inhibitors,,Predicts response to fam- trastuzumabderuxtecan-nxki (alternative ado-trastuzumab emtansine),"NGS, PCR-based methods",,,,
+,NTRK rearrangements,,Consideration of therapy with targeted inhibitors,,"Predicts response to larotrectinib, entrectinib","FISH, IHC, RT-PCR††,
+NGS†††",,,,
+,,,,,,,,,,
+,High-level amplification,,"Consideration for a clinical trial with MET
+targeted therapy",,"Predicts response to crizotinib
+Secondary resistance to EGFR-targeted TKIs","FISH, NGS",,,,

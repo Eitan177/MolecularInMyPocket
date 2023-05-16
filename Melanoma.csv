@@ -1,0 +1,50 @@
+﻿Biomarker,,Specific alterations Alternative terms,,Type of Melanoma,Indications,,Result Interpretation Significance,,Assays Techniques
+BRAF,,"Mutations at codon 600 (e.g., V600E, V600K)1,9",,Low-CSD/ SSM (>50%)1,Therapeutic,,Associated with sensitivity to BRAF and/or MEK inhibitors,,"NGS,
+pyrosequencing, Sanger sequencing, genotyping, PCR-
+based assays"
+BRAF,,"Non codon 600 mutations (e.g., V599E, V599D) 1,2,9",,High-CSD/ LMM,,,,,"NGS,
+pyrosequencing,"
+,,,,,,,,,Sanger
+,,,,,,,,,"sequencing,"
+,,,,,,,,,"genotyping,"
+KIT,,"Mutations in exon 11 and 13 (e.g., codons W557, V559, L576,
+K642), mutations in exon 17 (e.g., D816H); and amplification",,"High-CSD/ LMM (28%)2
+Acral/mucosal melanomas (15-40%)",Therapeutic,,"Exon 11 and 13 mutations are associated with sensitivity to KIT inhibitors
+D816H mutation is associated with resistance to KIT inhibitors",,"NGS,
+pyrosequencing, Sanger sequencing, PCR- based assays, microarray"
+,,,,,,,"KIT amplification is associated with resistance to
+KIT inhibitors",,
+NRAS,,"Mutations in codon 12, 13, 61 (e.g., Q61R)",,"High-CSD/ LMM, DM.
+Acral/mucosal melanomas (15%)3",Prognosis Therapeutic,,"Associated with poor survival
+May be associated with response to MEK inhibitors in some patients",,"NGS,
+pyrosequencing, Sanger sequencing, PCR- based assays"
+"KRAS1,2",,"Mutations in codon 12, 13 and
+61",,Non- CSD/Acral/mucosal melanomas,Prognosis Therapeutic,,"Associated with poor survival
+May be associated with response to MEK inhibitors in some patients",,"NGS,
+pyrosequencing, Sanger sequencing, PCR- based assays"
+PTEN6,,Loss of function mutation,,"Low-CSD/ SSM
+High-CSD/ LMM
+(30-40%)",Prognosis,,Associated with a highly aggressive phenotype and resistance to targeted- and immuno-therapy.,,"NGS,
+pyrosequencing, Sanger sequencing"
+NF14,,"Nonsense, frameshift, or splice- site mutations,
+(e.g., Q1188*, A656fs)",,"DM (55%)
+High-CSD/ LMM",Potential therapeutic,,Novel NF1 binding partner: Calpain1 (CAPN1).5,,"NGS,
+pyrosequencing, Sanger
+sequencing."
+CDKN2A2,,deletion of 9p21,,"Acral/mucosal melanomas, Malignant Spitz tumor,
+Low-CSD/ SSM",,,,,"FISH, NGS"
+"TERT
+promoter 7","Most common mutations are
+−57A/C, −124C/T, −146C/T,
+upstream the TERT gene ATG",,Many melanomas,,,,,"NGS,
+pyrosequencing,
+Sanger sequencing",
+ALK 8,"Rearrangement with various fusion partners: DCTN1, TPM3,
+NPM1, TPR, GTF3C2, and CLIP1",,Malignant Spitz tumor,,Diagnosis,,,"FISH, NGS",
+GNAQ1–3 GNA11,"e.g., GNAQ R183Q, GNA11 R183C",,"Melanoma in blue nevus (90%), uveal
+melanoma (50%)",,Diagnosis,,,"NGS,
+pyrosequencing, Sanger sequencing",
+CCND11,amplification,,Acral/mucosal melanomas (24%),,,,,"FISH, NGS",
+BAP11,Loss of function mutation,,Melanoma in blue nevus,,Diagnosis,,,"NGS,
+pyrosequencing,
+Sanger sequencing",

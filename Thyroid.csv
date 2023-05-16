@@ -1,0 +1,38 @@
+﻿Biomarker,,Specific,Indications,Result Interpretation Significance,Assay Techniques
+,,Alterations/ Alternative terms,,,
+BRAF,,"Variants in codons 600, 601",Diagnosis: Screening of indeterminate,High specificity for papillary thyroid carcinoma,"NGS, pyrosequencing, Sanger sequencing,"
+,,,cytology thyroid nodules,,"genotyping, PCR- based assays"
+,,,Prognosis,Higher risk of recurrence in PTC,
+,,,Therapy selection/ response prediction,Consideration of BRAF-targeted therapy in,
+,,,,metastatic disease not amenable to RAI therapy,
+HRAS,,"Variants in codons 61, 12, 13",Diagnosis: Screening of indeterminate cytology thyroid,"Frequently seen in follicular adenomas, follicular carcinomas, NIFTP, and invasive follicular variant of PTC","NGS, pyrosequencing, Sanger sequencing, genotyping, PCR-"
+,,,nodules,,based assays
+NRAS,,"Variants in codons 61, 12, 13",Diagnosis: Screening indeterminate cytology thyroid,"Frequently seen in follicular adenomas, follicular carcinomas, NIFTP, and invasive follicular variant of PTC","NGS, pyrosequencing, Sanger sequencing, genotyping, PCR-"
+,,,nodules,,based assays
+KRAS,,"Variants in codons 61, 12, 13",Diagnosis: Screening indeterminate,"Frequently seen in follicular adenomas, follicular carcinomas, NIFTP, and invasive follicular variant of PTC","NGS, pyrosequencing, Sanger sequencing,"
+,,,cytology thyroid nodules,,"genotyping, PCR- based assays"
+RET,,M918T; A883F;,Diagnosis,Medullary thyroid carcinoma,"NGS, pyrosequencing,"
+,,"variants in C634, C609,",,,"Sanger sequencing,"
+,,"C611, C618, C620,",Prognosis,Somatic M918T mutation in sporadic MTC,"genotyping, PCR-"
+,,C630; G533C; D631Y;,,associated with aggressive clinical course and,based assays
+,,K666E; E768D; L790F;,,poor prognosis,
+,,V804L; V804M; S891A;,,,
+,,R912P,Therapy selection/,Consideration of targeted RET inhibitors or,
+,,,response prediction,multikinase inhibitors in MTC patients with,
+,,,,unresectable locally advanced or metastatic,
+,,,,disease,
+,,,"In germline, risk of","In MEN2A, MEN2B or familial MTC syndromes",
+,,,hereditary MTC,,
+RET/PTC1 &,,RET/PTC1 = fusion of RET with CCDC6 RET/PTC3 = fusion of,Diagnosis: Screening indeterminate,Highly specific for PTC,"RT-PCR, NGS"
+RET/PTC3,,RET with NCOA4,cytology thyroid nodules,,"including RNA-Seq, AMP"
+rearrangements,,,,,
+,,,Therapy,Consideration of targeted RET inhibitors or multikinase inhibitors,
+,,,selection/response prediction,,
+"NTRK1, NTRK2,",,,Diagnosis: Screening,Highly specific for PTC,"RT-PCR, NGS"
+NTRK3,,,indeterminate cytology thyroid,,"including RNA-Seq, AMP"
+rearrangements,,,nodules,,
+,,,Therapy,Consideration of targeted NTRK inhibitors in,
+,,,,patients with advanced or aggressive disease.,
+PAX8/PPARG,,,Diagnosis: Screening,"Primarily seen in follicular carcinomas, but","RT-PCR, NGS"
+rearrangement,,,indeterminate,may also been seen at lower frequencies in,"including RNA-Seq, AMP"
+,,,cytology thyroid nodules,follicular adenomas and the follicular variant of PTC,

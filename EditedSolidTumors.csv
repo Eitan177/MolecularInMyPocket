@@ -1,0 +1,105 @@
+Tissue Type,Disease,Gene,Common Genomic Variant(s),Significance,Primary Assays
+Adrenal,"Hereditary Paraganglioma /
+Pheochromocytoma","SDHA, SDHB, SDHC, SDHD",LOF,risk of hereditary cancer,"IHC, SGAs, NGS"
+Adrenal,Neuroblastoma,MYCN,Amplification,prognosis,FISH
+Brain,Glioma / Glioblastoma,IDH1 / IDH2,"IDH1 R132, IDH2 R172, R140",diagnostic,"IHC, SGAs, NGS"
+Brain,Glioma / Glioblastoma,TERT,promoter mutations,prognosis,"SGAs, NGS"
+Brain,Glioma / Glioblastoma,1p / 19q codeletion,,oligodendroglioma phenotype,"FISH, CGX, NGS"
+Brain,Glioma / Glioblastoma,ATRX,LOF,prognosis,"IHC, SGAs, NGS"
+Brain,Glioma / Glioblastoma,MGMT,promoter methylation,response to alkylating agents,Methylation assay
+Brain,Glioma / Glioblastoma,EGFR,amplification; vIII transcript,diagnostic,"FISH, CGX, SGAs, NGS"
+Brain,Pediatric Glioma,"H3F3A, HIST1H3B",K27,diagnostic,
+Brain,Medulloblastoma,WNT pathway genes,CTNNB1,diagnostic subtype,"SGAs, NGS"
+Brain,Medulloblastoma,SHH pathway genes,PTCH1 LOF,diagnostic subtype,"SGAs, NGS"
+Breast,Breast CA,CTNNB1 (Beta-Catenin),Exon 3 mutations,aberrant nuclear expression,"IHC, SGAs, NGS"
+Breast,Breast CA,Estrogen Receptor (ER or ESR1),,response to anti-estrogen,"IHC, SGAs, NGS"
+Breast,Breast CA,Progesterone Receptor (PR or PGR),,response to anti-estrogen,"IHC, SGAs, NGS"
+Breast,Breast CA,ERBB2 (HER2),Amplification / Overexpression; S310; L755,responsiveness to trastuzumab,"FISH, IHC"
+Breast,Breast CA,PIK3CA,"E542, E545, H1045",response to PI3K inhibitor,"SGAs, NGS"
+Breast,Breast CA (Lobular),CDH1 (E-Cadherin),LOF,diagnostic,"IHC, SGAs, NGS"
+Breast,HBOC / Sporadic CA,BRCA1 / BRCA2,LOF,risk of hereditary cancer; response to PARP inhibitors,"SGAs, NGS"
+Cervix,Squamous cell CA,High-risk HPV,"high risk virus, type 16, 18, other",diagnostic,"IHC (p16), ISH, Viral Typing"
+Cervix,Endometrial CA (sporadic),MLH1,LOF and promoter hypermethylation,somatic etiology (not Lynch Syndrome),promoter methylation
+Endometrium,Lynch Syndrome,"MLH1, MSH2, MSH6, PMS2",LOF,40-60% lifetime risk of endometrial cancer,"IHC, SGAs, NGS, MSI"
+Endometrium,Cowden Syndrome,PTEN  (germline),LOF,25% risk of endometrial cancer development,"SGA, NGS"
+Eye,Retinoblastoma,RB1,LOF,risk of hereditary cancer,"SGAs, NGS"
+Eye,Uveal Melanoma,"GNAQ, GNA11",GNAQ / GNA11 Q209L,diagnosis,"SGAs, NGS"
+GI Tract,Gastrointestinal Stromal Tumor (GIST),KIT (CD117),exon 9 variants,"responsiveness to TKIs, associated with 1’ resistance",
+GI Tract,Gastrointestinal Stromal Tumor (GIST),KIT (CD117),"exon 11 in-frame indels; D820; less
+  frequently exons 8, 17                                                                                                                                                                                 ",responsiveness to TKIs,"SGAs, NGS
+**IHC not a proxy**"
+GI Tract,Gastrointestinal Stromal Tumor (GIST),KIT (CD117),,,
+GI Tract,Gastrointestinal Stromal Tumor (GIST),KIT (CD117),  exon 14                                                                              ,resistance to first-line TKIs                                                                            ,
+GI Tract,Gastrointestinal Stromal Tumor (GIST),KIT (CD117),exon 13,responsiveness to TKIs as 1’ variant; as 2’ variant confers resistance to TKIs,
+GI Tract,Gastrointestinal Stromal Tumor (GIST),PDGFRA,"  exon 12, 14, 18 variants                                                ",responsiveness to TKIs                                                                                   ,"SGAs, NGS"
+GI Tract,Gastrointestinal Stromal Tumor (GIST),PDGFRA,exon 18 D842V,resistance to TKIs,
+GI Tract,Gastrointestinal Stromal Tumor (GIST),"SDHA, SDHB, SDHC, SDHD",LOF,resistance to TKIs,"SGAs, NGS, IHC for SDHB"
+Colorectal CA,Colorectal CA,"KRAS, NRAS",G12; G13; Q61,decreased response to panitumumab or cetuximab,"SGAs, NGS"
+GI Tract (Lower),Colorectal CA,BRAF (therapeutic setting),"exon 15, V600E",decreased response to panitumumab or cetuximab,"SGAs, NGS"
+GI Tract (Lower),Colorectal CA,MSI testing,"MSI-High, Low, or stable","risk of hereditary cancer; prognosis, response to immunotherapy",MSI testing
+GI Tract (Lower),Colorectal CA (Lynch Syndrome),"Most commonly MLH1, MSH2, MSH6,
+PMS2, EPCAM",LOF,"risk of hereditary cancer; prognosis, response to immunotherapy","MMR IHC, NGS"
+GI Tract (Lower),Colorectal CA (Lynch Syndrome),MLH1,promoter methylation,somatic etiology (not Lynch Syndrome),methylation studies
+GI Tract (Lower),Colorectal CA (Lynch Syndrome),BRAF,"exon 15, V600E",somatic etiology when MLH1 deficient/MSI-high,"IHC, SGA, NGS"
+GI Tract (Lower),Colorectal CA (FAP),APC,LOF,risk of hereditary cancer,"SGAs, NGS"
+GI Tract (Lower),Hirschprung disease,RET,LOF,germline diagnosis,"SGAs, NGS"
+Heart,Cardiomyopathy,MYH7,,Both dilated and hypertrophic,"SGAs, NGS"
+Heart,Birt-Hogg-Dube syndrome,FLCN,LOF,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Kidney,Clear Cell Renal CA,VHL,3p deletion,germline diagnosis; risk of hereditary cancer,CGX
+Kidney,Polycystic Kidney Disease (Dominant / Recessive),,,,"SGAs, NGS"
+Kidney,Polycystic Kidney Disease (Dominant / Recessive),PKD1 / PKHD1,LOF,germline diagnosis,
+Kidney,Renal CA; Von Hippel Lindau Syndrome,VHL,LOF,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Kidney,Rhabdoid Sarcoma,"SMARCB1 (INI), SMARCA4 (BRG1)",LOF,risk of hereditary cancer,"IHC, NGS"
+Kidney,Translocation-Associated Renal CA,TFE3 rearrangement,translocations involving Xp11,diagnostic,"FISH, CGX"
+Kidney,Wilm's Tumor,WT1,,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Kidney,Alagille Syndrome,JAG1,LOF,haploinsufficiency,"SGAs, NGS"
+Liver,Hepatic Adenoma,CTNNB1 (Beta-Catenin),Exon 3 mutations,aberrant nuclear expression,"IHC, SGAs, NGS"
+Liver,Hereditary Hemochromatosis,HFE,"C282Y, H63D",germline diagnosis,"SGAs, NGS"
+Liver,Wilson Disease,ATP7B,,germline diagnosis,SGAs
+Lung,"Non-Small Cell CA (NSCLC, adenocarcinoma)",BRAF,V600E,predicts response to BRAF inhibitors (dabrafenib-trametinib),"SGAs, NGS"
+Lung,"Non-Small Cell CA (NSCLC, adenocarcinoma)",ROS1 rearrangement,Multiple fusion partners,responsiveness to TKIs,"FISH, NGS, AMP"
+Lung,"Non-Small Cell CA (NSCLC, adenocarcinoma)",ALK rearrangement,EML4-ALK; inv(2),responsiveness to TKIs,"FISH, IHC, NGS, AMP"
+Lung,"Non-Small Cell CA (NSCLC, adenocarcinoma)",RET Rearrangement,Multiple fusion partners,responsiveness to TKIs,"FISH, NGS, AMP"
+Lung,"Non-Small Cell CA (NSCLC, adenocarcinoma)",EGFR,exons 18-21; L858R,responsiveness to TKIs,"IHC, SGAs, NGS"
+Lung,"Non-Small Cell CA (NSCLC, adenocarcinoma)",EGFR,exon 20; T790M,resistance to first line therapy; de novo and acquired,"SGA, NGS"
+Lung,-1 antitrypsin deficiency,SERPINA1,PiMM / PiZZ alleles,germline diagnosis,SGAs
+Lung,Cowden Syndrome,PTEN,LOF,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Lung,Li-Fraumeni syndrome,TP53,LOF,risk of hereditary cancer,"SGAs, NGS"
+Multi-System,McCune Albright Syndrome,GNAS,,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Multi-System,MEN Types 1 / 2A & 2B / 4,MEN1 / RET / CDKN1B,,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Multi-System,Neurofibromatosis,NF1 / NF2,LOF,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Multi-System,Peutz-Jeghers Syndrome,STK11,LOF,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Multi-System,Tuberous Sclerosis,TSC1 / TSC2,,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Oropharynx,Squamous CA,High-risk HPV,"high risk virus, type 16, 18, other",Improved prognosis,"IHC (p16), ISH, Viral Typing"
+Ovary,Ovarian CA,CTNNB1 (Beta-Catenin),"Exon 3 mutations or intragenic
+                                                                                       deletion                                                                                                                                                                                                                                                       ",diagnostic,"IHC, SGAs, NGS"
+Ovary,Ovarian CA,PIK3CA,Amplification,responsiveness to PI3K inhibitors,"SGAs, NGS"
+Ovary,Ovarian CA,PTEN,LOF,germline diagnosis; risk of hereditary cancer,"SGAs, NGS"
+Ovary,"Small cell CA, hypercalcemic type",SMARCA4 (BRG1),LOF,diagnostic; risk of hereditary cancer,"SGAs, NGS"
+Ovary,High grade serous carcinoma,TP53,"SNVs, indels",diagnostic,"IHC, SGAs, NGS"
+Ovary,High grade serous carcinoma,"BRCA1 / BRCA2, germline and somatic",,response to Platinum-based chemotherapy & PARPi,"SGA, NGS"
+Ovary,Low-grade serous carcinoma,"KRAS, BRAF",SNVs,"diagnostic, potential response to MEK-inhibitors",
+Ovary,HBOC / Sporadic,BRCA1 / BRCA2,LOF,response to PARP inhibitors,"SGAs, NGS"
+Prostate,Prostate CA,AR,"SNVs, Amplification","diagnostic, prognosis, resistance to androgen deprivation","IHC, SGAs, NGS, FISH"
+Prostate,Prostate CA,TMPRSS2 rearrangement,TMPRSS2-ERG; t(21;21),"diagnostic,","FISH, NGS"
+Skin,Merkel Cell Carcinoma,Merkel Cell Polyoma Virus,Virus,diagnostic,"ISH, Viral Test"
+Skin,Melanoma,BRAF,V600,"responsiveness to vemurafenib, dabrafenib","IHC, SGAs, NGS"
+Skin,Melanoma,KIT (CD117),"exon 8, 9, 11, 13, 17 variants",responsiveness to TKIs,"SGAs, NGS"
+Skin,Melanoma,PDGFRA,"exon 12, 14, 18 variants",responsiveness to TKIs,"SGAs, NGS"
+Skin,Melanoma,NRAS,G12; G13; Q61,diagnostic,"SGAs, NGS"
+Skin,Melanoma,NF1,LOF,diagnostic,"SGAs, NGS"
+Skin,Melanoma,TERT,promoter mutations,diagnostic,"SGAs, NGS"
+Soft Tissue,Alveolar Rhabdomyosarcoma,FOXO1 rearrangement,PAX3-FOXO1; t(2;13),diagnostic,"FISH, NGS, AMP"
+Soft Tissue,Ewing sarcoma,EWSR1 rearrangement,EWSR1-FLI1; t(11;22) (most common),diagnostic,"FISH, NGS, AMP"
+Soft Tissue,Fibrosarcoma,ETV6 rearrangements,ETV6-NTRK3; t(12;15),"diagnostic, response to NTRK inhibitors","FISH, NGS, AMP"
+Soft Tissue,Inflammatory Myofibroblastic Tumor,ALK rearrangement,TPM3-ALK; t(2;5),responsiveness to TKIs,"FISH, IHC, NGS, AMP"
+Soft Tissue,Solitary Fibrous Tumor,STAT6 rearrangement,NAB2-STAT6; inv(12),diagnostic,"IHC, SGAs, NGS,AMP"
+Soft Tissue,Synovial Sarcoma,SS18 rearrangement,SS18-SSX1; t(X;18),diagnostic,"FISH, NGS, AMP"
+Stomach,Gastric CA,ERBB2 (HER2),Amplification / Overexpression; S310; L755,responsiveness to Trastuzumab,"FISH, IHC"
+Stomach,Hereditary Diffuse Gastric CA,CDH1 (E-Cadherin),LOF,risk of hereditary cancer,"SGAs, NGS"
+Thymus,Thymic carcinoma,KIT (CD117),exon 11 variants; D820,responsiveness to TKIs,"IHC, SGAs, NGS"
+Thymus,Follicular Thyroid CA,PAX8-PPARG rearrangement,PAX8-PPAR; t(2;3),diagnostic,FISH
+Thyroid,Papillary Thyroid CA,BRAF,V600,"diagnostic; responsiveness to vemurafenib, dabrafenib","IHC, SGAs, NGS"
+Thyroid,Papillary Thyroid CA,RET rearrangement,"PTC1, PTC2, PTC3 common partners",diagnostic; responsive to targeted RET inhibition,"FISH, NGS, AMP"
+Thyroid,Papillary Thyroid CA,TERT,promoter mutations,prognosis,"SGAs, NGS"
+Urinary Tract,Urothelial carcinomas,FGFR3 rearrangement or mutation,FGFR3-TACC3; S249,response to FGFR inhibitors,"NGS, AMP"

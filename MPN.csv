@@ -1,0 +1,36 @@
+﻿Biomarker,Specific Alterations/ Alternative Terms,Indications,Result Interpretation/Significance
+BCR/ABL1,"Philadelphia (Ph) Chromosome
+Usually p210 fusions - e13a2 and e14a2 Rarely p190 fusion - e1a2  or p230 fusion - e19a2 or fusions involving a3","Diagnosis and monitoring of CML
+Diagnosis of other MPNs and MDS/MPNs which require exclusion of CML by negative BCR/ABL1
+Therapy: ABL1 kinase inhibitors","Diagnostic of CML in the correct clinical context. Also found in some ALLs and AMLs.
+Reported in International Scale (% IS), used for monitoring CML"
+JAK2,"p.V617F activating hotspot
+Exon 12 activating substitution mutations","Diagnosis:
+p.V617F for first line single gene testing for PV (95%), ET (50-70%), and PMF (30-50%)
+Exon 12 mutations (~5% of  PV)
+Therapy: JAK2 inhibitors","p.V617F not specific for a single disease can be found in a wide range of myeloid neoplasms, associated with thrombosis and erythrocytosis High VAF (>75%) is associated with disease
+progression"
+CALR,Exon 9 frameshift mutations,"Diagnosis:
+CALR exon 9 frameshift in ET (25-30%) and PMF (30-35%)",Exon 9 frameshift not specific for a single disease but are useful to support a diagnosis of ET or PMF
+MPL,p.W515K/L activating hotspot,"Diagnosis:
+MPL p.W515K/L in ET (5%) and PMF (5-10%)","p.W515K/L not specific for a single disease but are
+useful to support a diagnosis of ET or PMF"
+CSF3R,"p.T618I activating hotspot Other activating substitutions, predominantly exon 17","Diagnosis: CNL (100%), other myeloid neoplasms Therapy:
+p.T618I - possible ruxolitinib sensitivity p.S783fs* - possible dasatinib sensitivity","Mutated in nearly all cases of CNL as well as in other myeloid neoplasms
+Specific mutations suggest therapy"
+FIP1L1/PDGFRA,Usually cryptic deletion involving CHIC2,"Diagnosis: identify specific subtype of neoplasms Therapy response:
+PDGFRA/B fusions are typically responsive to kinase inhibitors such as imatinib
+FGFR1 fusions are typically non-responsive to imatinib and may need newer agents","Fusions involving PDGFRA/B, FGFR1, and JAK2 are diagnostic of a specific subgroup of lymphoid and myeloid neoplasms with eosinophilia that are considered in a distinct category from MPNs, but may be considered in the differential of CEL"
+PDGFRB/various partners,"Various fusion partners, most commonly
+ETV6",,
+FGFR1/various partners,Various fusion partners,,
+PCM1-JAK2,"Also includes other partners of JAK2 (e.g.,
+ETV6 or BCR)",,
+"Panel testing including JAK2, CALR, MPL, CSF3R, ASXL1, TET2, EZH2, IDH1/2, DNMT3A, TP53, SF3B1, SRSF2, U2AF1, CBL, N/KRAS, SETBP1,
+others","For a more complete list of recommended panel options, see numerous other papers, reviewed in McClure et al. Journal of Molecular Diagnostics, pending publication","Clonality may be used to support a diagnosis of an MPN in the correct clinical/pathologic context (e.g., triple negative MPNs, CEL vs HES)
+Specific patterns may suggest other entities
+SF3B1 mutations may suggest MDS-RS or MDS/MPN-RS-T
+CBL mutations may suggest CMML","Provides diagnostic information to support single gene testing
+Adds additional prognostic information (e.g., ASXL1 or TP53 mutations or high number of mutations portend poor prognosis)
+May suggest pending progression (e.g., NRAS
+mutations, elevated JAK2 VAF)"

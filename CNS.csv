@@ -1,0 +1,24 @@
+﻿Biomarker,"Specific alterations
+Alternative terms",Indications,Result interpretation significance,Assays Techniques,
+IDH1 IDH2,"IDH1: Mutations in codon R132
+IDH2: Mutations in codons R140, R172",Diagnosis Prognosis,"Can be seen in astrocytoma, glioblastoma, oligodendroglioma.
+Associated with improved prognosis except when the tumor also has a homozygous deletion of CDKN2A/B","NGS, Sanger sequencing, genotyping, PCR-based assays, IHC",
+1p/19q co-deletion,Deletion,Diagnosis Prognosis,"Co-deletion of 1p/19q is seen in oligodendrogliomas and is associated with
+improved prognosis.","FISH, array, NGS",
+BRAF,Mutations in codon V600; fusions,"V600 mutations are therapeutic: Fusions such as BRAF- KIAA1549 are more
+diagnostic","Seen in tumors such as pilocytic astrocytoma, pleomorphic xanthoastrocytoma, ganglioglioma. Activating mutations or fusions are potentially targetable.","NGS, Sanger sequencing, genotyping, PCR-based assays, IHC, RT-PCR, AMP",
+H3-3A H3C2,Mutations in codons K27 and G34,Diagnosis,"Seen in Diffuse midline glioma, H3 K27-altered, and Diffuse hemispheric glioma, H3 G34–mutant","NGS, Sanger sequencing, genotyping, PCR-based assays, IHC",
+TERT,Promoter mutation,Prognosis,"Associated with less favorable prognosis in IDH- wild type astrocytomas and present in almost all
+oligodendrogliomas.","NGS, pyrosequencing, Sanger sequencing, genotyping,
+PCR-based assays",
+MGMT,Promoter methylation,Therapeutic,Associated with response to temozolomide,"Methylation-specific PCR, bisulfite real-time PCR, bisulfite sequencing",
+ATRX,Loss of function mutations,Diagnosis,"Associated with the presence of IDH1 or IDH2
+mutations.
+Typically mutually exclusive with 1p/19q co-
+deletion","NGS, pyrosequencing, Sanger sequencing, IHC",
+RELA,Fusion,Diagnosis Prognosis,"RELA-fusion positive ependymomas (usually supratentorial) tend to show more aggressive
+behavior.","RT-PCR, AMP, FISH",
+"EGFR
+chromosome 7
+chromosome 10",EGFR amplification Gain of chromosome7 Loss of chromosome 10,Diagnosis,"If a histologic grade 2 or 3, IDH-wildtype astrocytoma has any one of the following three molecular alterations, then is classified as a glioblastoma:  EGFR amplification, TERT promoter mutation, or combined gain of chromosome 7
+and loss of chromosome 10.","FISH, array, NGS",
